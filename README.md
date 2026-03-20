@@ -1,6 +1,11 @@
 contract address :
 <img width="1883" height="881" alt="image" src="https://github.com/user-attachments/assets/8d96b807-8877-42b8-9b45-9bc0f4f5987e" />
 
+UI Screenshot :
+<img width="1254" height="708" alt="image" src="https://github.com/user-attachments/assets/41b694ff-c54b-4959-80d6-74d6027368b7" />
+
+
+
 # 🛡️ ClaimChain — Decentralized Insurance Claims System
 
 ## 📌 Project Description  
